@@ -1,11 +1,3 @@
-import Head from 'next/head';
-
-const Home = () => (
-  <div>
-    <Head>
-      <title>BG Support</title>
-    </Head>
-  </div>
-);
+const Home = () => <div></div>;
 
 export default Home;
